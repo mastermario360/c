@@ -1,0 +1,35 @@
+{
+	"storyName": "Cutie",
+	"difficulties": "Easy, Normal, Hard, Harder",
+	"hideFreeplay": false,
+	"weekBackground": "alleyway",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Termination",
+			"kb",
+			[
+				69,
+				69,
+				69
+			]
+		],
+		[
+			"Interlope",
+			"invis",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "QT"
+}
